@@ -1,0 +1,1 @@
+*/10 * * * * /home/users/me/backupS3.sh >> /home/users/me/backupS3.log 2>&1
